@@ -1,8 +1,6 @@
-Here’s a professional README for your **Financial Inclusion Prediction** project:
 
----
 
-# **Financial Inclusion Prediction**
+# **Financial Inclusion Prediction App**
 
 ## **Overview**
 The **Financial Inclusion Prediction** project aims to predict whether individuals in East Africa are likely to have a bank account based on demographic information and various financial service usage patterns. Utilizing a machine learning model, this application helps identify individuals who may benefit from targeted financial services, contributing to increased financial inclusion across the region.
