@@ -32,8 +32,6 @@ Financial-Inclusion-Prediction/
 ├── data/                            # Directory for storing datasets
 │   └── Financial_inclusion_dataset.csv   # Dataset file (optional: download via script)
 │
-├── notebooks/                       # Jupyter notebooks for data exploration & analysis (if needed)
-│   └── data_cleaning.ipynb          # Notebook for data preprocessing (optional)
 │
 ├── models/                          # Directory for trained models
 │   └── streamlit_trained_model.sav  # Trained machine learning model file
@@ -43,7 +41,6 @@ Financial-Inclusion-Prediction/
 │
 ├── src/                             # Source files for training and model scripts
 │   ├── train_model.py               # Python script for training the model
-│   └── utils.py                     # Utility functions (e.g., data cleaning, preprocessing)
 │
 ├── requirements.txt                 # File for project dependencies
 ├── README.md                        # Project overview and documentation
@@ -60,8 +57,8 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Financial-Inclusion-Prediction.git
-   cd Financial-Inclusion-Prediction
+   git clone https://github.com/cliffordnwanna/FINANCIAL_INCLUSION_PREDICTION_APP.git
+   cd FINANCIAL_INCLUSION_PREDICTION_APP
    ```
 
 2. **Install Dependencies:**
@@ -76,7 +73,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 4. **Run the Streamlit Web Application:**
    ```bash
-   streamlit run app/app.py
+   streamlit run APP/app.py
    ```
 
 ## **Usage**
@@ -95,7 +92,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## **Contact**
 For any inquiries or suggestions, please reach out to:
-- **Name:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- **Name:** Chukwuma Clifford
+- **Email:** nwannachumaclifford@gmail.com
+- **GitHub:** [https://github.com/cliffordnwanna](https://github.com/cliffordnwanna)
 
